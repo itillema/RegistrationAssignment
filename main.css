@@ -1,0 +1,71 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    background-color:crimson;
+}
+nav {
+    position: center;
+    width: 100%;
+    background-color:crimson;
+
+}
+.nav-link {
+    color:black;
+    margin: 20px 20px 20px 20px;
+    float: none;
+    position: relative;
+    left: 35%;
+    background-color:whitesmoke;
+    text-decoration: none;
+    border-radius: 12px;
+    padding: 10px 24px;
+}
+.form-wrapper {
+    margin-block: 500px 500px 500px 500px;
+}
+.center {
+    margin: auto;
+    width: 25%;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 12px;
+}
+.form-setup {
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+}
+.center-headings{
+    width: 50%;
+    padding: 10px;
+}
+#submit-button {
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color:whitesmoke;
+    border-radius: 12px;
+}
+h1 {
+    text-align: center;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
+h2 {
+    text-align: center;
+}
+.logo {
+    margin: auto;
+    width: 90%;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 12px;
+    float: center;
+    left: 15%;
+}
